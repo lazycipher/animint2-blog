@@ -1,4 +1,4 @@
-## [nimint2-blog](https://lazycipher.js.org/animint2-blog)
+## Live Blog: [Aimint2-blog](https://lazycipher.js.org/animint2-blog)
 ## Project Repository: [Animint2](https://github.com/tdhock/animint2)
 
 
