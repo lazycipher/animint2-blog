@@ -11,7 +11,7 @@ image: assets/images/post-heading/what-is-Animint2.png
 It's a package of R which makes visualization interactive.
 Animint2 is a fork of ggplot2 that makes it possible to design multi-layer, multi-plot, interactive, and possibly animated data visualizations using just a few lines of R code.
 
-Animint was created in 2013 with the aim to provide a took to make interactive animated graphs. Animint2 required `ggplot2` in order to function properly. But due to some incompatible changes introduced in ggplot2 during 2014-17 it became hard to keep things up and going.
+Animint was created in 2013 with the aim to provide a tool to make interactive animated graphs. Animint2 required `ggplot2` in order to function properly. But due to some incompatible changes introduced in ggplot2 during 2014-17 it became hard to keep things up and going.
 So, In 2018, animint2 was created which copies/forks relevant parts of ggplot2 package. Now, animint2 can be used without needing ggplot2.
 It is recommended not to import ggplot2 directly when using animint2.
 
