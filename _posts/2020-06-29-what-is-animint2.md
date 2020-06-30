@@ -3,6 +3,7 @@ layout: post
 title:  "What's animint2?"
 author: lazycipher
 categories: [ animint2, experience ]
+tags: [ featured ]
 image: assets/images/post-heading/what-is-Animint2.png
 ---
 

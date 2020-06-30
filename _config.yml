@@ -2,7 +2,6 @@
 name: 'animint2-blog'
 description: 'animint2-blog is a dedicated blog for tutorials, experience and information sharing for animint2 package.'
 logo: 'assets/images/animing2-logo.png'
-favicon: 'assets/images/favicon.ico'
 baseurl: '/animint2-blog'
 email: 'email@example.com'
 
