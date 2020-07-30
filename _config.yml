@@ -19,9 +19,16 @@ authors:
     lazycipher:
       name:           lazycipher
       site:           https://lazycipher.js.org
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Himanshu Singh(@lazycipher) maintainer of this blog dedicated to animint2!"
+      avatar:         /assets/images/lazycipher_prof_pic.jpg
+      bio:            "Hi, I am Himanshu Singh(@lazycipher) maintainer of this blog dedicated to animint2! I'm workin on this project as a Google Summer of Code 2020 student under R Project for Statistical Computing."
       twitter:        https://twitter.com/lazycipher
+      github:         https://github.com/lazycipher
+    tdhock:
+      name:           'tdhock'
+      site:           http://tdhock.github.io/
+      github:         https://github.com/tdhock
+      avatar:         /assets/images/tdhock_prof_pic.jpg
+      bio:            "Toby Dylan Hocking, PhD, Machine learning lab director School of Informatics, Computing, and Cyber Systems Northern Arizona University. He's Statistical machine learning researcher, focusing on fast optimization algorithms for big data."
 
 # Defaults
 defaults:
