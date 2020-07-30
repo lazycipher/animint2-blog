@@ -2,7 +2,7 @@
 layout: post
 title:  "Coding Period Report 1 (June 1, 2020 - June 30, 2020)"
 author: lazycipher
-categories: [ animint2, experience ]
+categories: [ animint2, experience, gsoc ]
 tags: [ featured ]
 image: assets/images/post-heading/Coding-Period-Report-1.png
 ---
