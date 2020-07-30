@@ -4,5 +4,5 @@
 
 
 
-Copyright:
-Copyright (C) 2019 [WowThemes.net](https://github.com/wowthemesnet/mundana-theme-jekyll) *free* under MIT license. 
+
+Theme Copyright (C) 2019 [WowThemes.net](https://github.com/wowthemesnet/mundana-theme-jekyll) *free* under MIT license. 
