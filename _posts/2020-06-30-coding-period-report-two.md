@@ -29,7 +29,7 @@ pt.to.lines <- function(pt_value){
 ```
 
 - Failed test because of not passing `stringsAsFactors = TRUE` in dataframes because of some recent changes: ([ref](https://developer.r-project.org/Blog/public/2020/02/16/stringsasfactors/index.html))
-By detault, now, it's used stringsAsFactors = FALSE so we had to tweak some tests.
+By detault, now, it's used `stringsAsFactors = FALSE` so we had to tweak some tests.
 
 - Build failed everytime with the error shown below on the console of `Travis-ci` build.([ref](https://travis-ci.org/github/tdhock/animint2/builds/708614712))
 After looking a lot and experinemting a lot, I found out that the secure github PAT was expired/invoked somehow and was causing this issue. I had to generate a new one and put the same in the `.travis.yml` file. So, the new secret makes the build run like a charm([ref](https://travis-ci.org/github/tdhock/animint2/builds/708651308)).
@@ -50,7 +50,7 @@ I'm working around this issue and I'll complete this very soon. As per a detaile
 
 #### Any unsolved issue?
 
-Yes, there are few things which are not completed as expected. 
+Yes, there are few things which are not completed as expected.
 
 - The geom oop implementation was supposed to complete earlier but due to some issues it got delayed.
 I'm working around this and will be completed in a day or two. So far it's going as expected as per Mr. Khan. ([ref](https://github.com/tdhock/animint2/pull/44))

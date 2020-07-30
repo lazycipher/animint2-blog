@@ -127,6 +127,7 @@ The command "Rscript -e 'deps <- remotes::dev_package_deps(dependencies = NA);re
 Your build has been stopped.
 ```
  Until we find anything helpful on this, I'm supposed to be working on the forked version of repository.
+ 
 #### Anything I messed up?
 
 Yes, Since it was my first time interacting with R ecosystem, I overlooked one thing. <mark>It happened before my step of moving to docker as a solution.</mark> I assumed that the latest version of `RSelenium` supported `Selenium v3` atleast as v4 is in alpha now.
